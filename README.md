@@ -1,4 +1,3 @@
-
 # Privacy Policy for BhaktiPath
 
 **Effective date:** July 31, 2025
@@ -29,4 +28,4 @@ We may update this policy occasionally. Changes will be posted in the app or on 
 
 ## Contact Us
 If you have questions, contact us at:  
-📧 [bhaktipath1000@gmail.com]
+📧 bhaktipath1000@gmail.com
