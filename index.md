@@ -1,3 +1,7 @@
+---
+title: "Privacy Policy for BhaktiPath"
+---
+
 # Privacy Policy for BhaktiPath
 
 **Effective date:** July 31, 2025
