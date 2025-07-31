@@ -1,4 +1,3 @@
-# bhaktipath-privacy
 
 # Privacy Policy for BhaktiPath
 
