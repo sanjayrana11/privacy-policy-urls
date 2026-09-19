@@ -1,8 +1,8 @@
 ---
-title: "Privacy Policy for Bhakti Path- Panchang, Sadhana"
+title: "Privacy Policy for Bhakti Path: Panchang & Kundli"
 ---
 
-# Privacy Policy for Bhakti Path- Panchang, Sadhana
+# Privacy Policy for Bhakti Path: Panchang & Kundli
 
 **Effective Date:** September 13, 2026
 
